@@ -1,5 +1,5 @@
 # Projects
-Deep Learning Python projects-
+Python-OpenCv projects-
 4 projects have been uploaded.
 1. Lane Detection
 2. Car Detection
